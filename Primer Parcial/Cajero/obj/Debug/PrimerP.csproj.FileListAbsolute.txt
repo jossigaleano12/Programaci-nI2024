@@ -1,0 +1,7 @@
+C:\Users\Josseline Galeano\source\repos\PrimerP\obj\Debug\PrimerP.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\source\repos\PrimerP\obj\Debug\PrimerP.csproj.CoreCompileInputs.cache
+C:\Users\Josseline Galeano\source\repos\PrimerP\bin\Debug\PrimerP.exe.config
+C:\Users\Josseline Galeano\source\repos\PrimerP\bin\Debug\PrimerP.exe
+C:\Users\Josseline Galeano\source\repos\PrimerP\bin\Debug\PrimerP.pdb
+C:\Users\Josseline Galeano\source\repos\PrimerP\obj\Debug\PrimerP.exe
+C:\Users\Josseline Galeano\source\repos\PrimerP\obj\Debug\PrimerP.pdb

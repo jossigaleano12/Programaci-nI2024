@@ -1,0 +1,7 @@
+C:\Users\Josseline Galeano\source\repos\2Programa\obj\Debug\2Programa.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\source\repos\2Programa\obj\Debug\2Programa.csproj.CoreCompileInputs.cache
+C:\Users\Josseline Galeano\source\repos\2Programa\bin\Debug\2Programa.exe.config
+C:\Users\Josseline Galeano\source\repos\2Programa\bin\Debug\2Programa.exe
+C:\Users\Josseline Galeano\source\repos\2Programa\bin\Debug\2Programa.pdb
+C:\Users\Josseline Galeano\source\repos\2Programa\obj\Debug\2Programa.exe
+C:\Users\Josseline Galeano\source\repos\2Programa\obj\Debug\2Programa.pdb
