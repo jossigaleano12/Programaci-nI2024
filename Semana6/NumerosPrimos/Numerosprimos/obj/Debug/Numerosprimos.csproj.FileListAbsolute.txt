@@ -1,0 +1,7 @@
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\NumerosPrimos\Numerosprimos\bin\Debug\Numerosprimos.exe.config
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\NumerosPrimos\Numerosprimos\bin\Debug\Numerosprimos.exe
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\NumerosPrimos\Numerosprimos\bin\Debug\Numerosprimos.pdb
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\NumerosPrimos\Numerosprimos\obj\Debug\Numerosprimos.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\NumerosPrimos\Numerosprimos\obj\Debug\Numerosprimos.csproj.CoreCompileInputs.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\NumerosPrimos\Numerosprimos\obj\Debug\Numerosprimos.exe
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\NumerosPrimos\Numerosprimos\obj\Debug\Numerosprimos.pdb

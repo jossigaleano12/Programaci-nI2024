@@ -1,0 +1,2 @@
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Sesion5Parte2\obj\Debug\Sesion5Parte2.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Sesion5Parte2\obj\Debug\Sesion5Parte2.csproj.CoreCompileInputs.cache

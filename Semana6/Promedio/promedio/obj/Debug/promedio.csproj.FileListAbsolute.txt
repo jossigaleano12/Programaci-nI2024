@@ -1,0 +1,7 @@
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Promedio\promedio\bin\Debug\promedio.exe.config
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Promedio\promedio\bin\Debug\promedio.exe
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Promedio\promedio\bin\Debug\promedio.pdb
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Promedio\promedio\obj\Debug\promedio.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Promedio\promedio\obj\Debug\promedio.csproj.CoreCompileInputs.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Promedio\promedio\obj\Debug\promedio.exe
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana6\Promedio\promedio\obj\Debug\promedio.pdb
