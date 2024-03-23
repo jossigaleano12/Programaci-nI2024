@@ -1,0 +1,7 @@
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana7\obj\Debug\Semana7.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana7\obj\Debug\Semana7.csproj.CoreCompileInputs.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana7\bin\Debug\Semana7.exe.config
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana7\bin\Debug\Semana7.exe
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana7\bin\Debug\Semana7.pdb
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana7\obj\Debug\Semana7.exe
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Semana7\obj\Debug\Semana7.pdb
