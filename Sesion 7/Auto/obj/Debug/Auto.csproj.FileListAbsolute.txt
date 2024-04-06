@@ -1,0 +1,7 @@
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Sesion 7\Auto\bin\Debug\Auto.exe.config
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Sesion 7\Auto\bin\Debug\Auto.exe
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Sesion 7\Auto\bin\Debug\Auto.pdb
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Sesion 7\Auto\obj\Debug\Auto.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Sesion 7\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Sesion 7\Auto\obj\Debug\Auto.exe
+C:\Users\Josseline Galeano\OneDrive\Escritorio\Programacion I\Sesion 7\Auto\obj\Debug\Auto.pdb
