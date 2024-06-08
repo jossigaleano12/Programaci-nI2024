@@ -1,0 +1,14 @@
+C:\Users\Josseline Galeano\OneDrive\Escritorio\PruebaCRUD\PruebaCRUD\obj\Debug\net6.0-windows\CRUDALUMNOS.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\PruebaCRUD\PruebaCRUD\obj\Debug\net6.0-windows\CRUDALUMNOS.Form1.resources
+C:\Users\Josseline Galeano\OneDrive\Escritorio\PruebaCRUD\PruebaCRUD\obj\Debug\net6.0-windows\CRUDALUMNOS.csproj.GenerateResource.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\PruebaCRUD\PruebaCRUD\obj\Debug\net6.0-windows\CRUDALUMNOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josseline Galeano\OneDrive\Escritorio\PruebaCRUD\PruebaCRUD\obj\Debug\net6.0-windows\CRUDALUMNOS.AssemblyInfoInputs.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\PruebaCRUD\PruebaCRUD\obj\Debug\net6.0-windows\CRUDALUMNOS.AssemblyInfo.cs
+C:\Users\Josseline Galeano\OneDrive\Escritorio\PruebaCRUD\PruebaCRUD\obj\Debug\net6.0-windows\CRUDALUMNOS.csproj.CoreCompileInputs.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\CRUDALUMNOS\obj\Debug\net6.0-windows\CRUDALUMNOS.csproj.AssemblyReference.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\CRUDALUMNOS\obj\Debug\net6.0-windows\CRUDALUMNOS.Form1.resources
+C:\Users\Josseline Galeano\OneDrive\Escritorio\CRUDALUMNOS\obj\Debug\net6.0-windows\CRUDALUMNOS.csproj.GenerateResource.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\CRUDALUMNOS\obj\Debug\net6.0-windows\CRUDALUMNOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josseline Galeano\OneDrive\Escritorio\CRUDALUMNOS\obj\Debug\net6.0-windows\CRUDALUMNOS.AssemblyInfoInputs.cache
+C:\Users\Josseline Galeano\OneDrive\Escritorio\CRUDALUMNOS\obj\Debug\net6.0-windows\CRUDALUMNOS.AssemblyInfo.cs
+C:\Users\Josseline Galeano\OneDrive\Escritorio\CRUDALUMNOS\obj\Debug\net6.0-windows\CRUDALUMNOS.csproj.CoreCompileInputs.cache
